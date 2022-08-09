@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌐 Diseñador web full stack 
+- 🌐 Full stack engineer
 - 🎓 Licenciado en sistemas de información
 - 📫 Como contactarme: https://www.linkedin.com/in/marcelocamusso/
