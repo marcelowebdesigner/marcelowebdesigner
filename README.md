@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelowebdesigner&label=Profile%20views&color=0e75b6&style=flat" alt="marcelowebdesigner" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelowebdesigner" alt="marcelowebdesigner" /></a> </p>
+<p align="left"> <a href="https://github.com/marcelowebdesigner"><img src="https://github-profile-trophy.vercel.app/?username=marcelowebdesigner" alt="marcelowebdesigner" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/marcelocamusso" target="blank"><img src="https://img.shields.io/twitter/follow/marcelocamusso?logo=twitter&style=for-the-badge" alt="marcelocamusso" /></a> </p>
 
