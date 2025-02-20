@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/marcelocamusso" target="blank"><img src="https://img.shields.io/twitter/follow/marcelocamusso?logo=twitter&style=for-the-badge" alt="marcelocamusso" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://macdev.com.ar/portfolio](https://macdev.com.ar/portfolio)
-
 - 📫 How to reach me **https://www.linkedin.com/in/marcelocamusso/**
 
 <h3 align="left">Connect with me:</h3>
