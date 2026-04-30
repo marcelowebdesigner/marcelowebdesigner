@@ -22,7 +22,7 @@ const marcelo = {
   role: "Full Stack Developer",
   company: "CraftDigit",
   education: "Licenciado en Sistemas de Información",
-  currentlyLearning: ["Data Mining", "AI Integrations", "n8n Automations"],
+  currentlyLearning: ["Data Mining", "AI Integrations", "Automations"],
   passions: ["Clean Code", "Teaching Tech", "Building Communities"],
   contact: "https://www.linkedin.com/in/marcelocamusso/"
 };
@@ -46,14 +46,11 @@ const marcelo = {
 **Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Database & Cloud**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Tools & Design**
 
